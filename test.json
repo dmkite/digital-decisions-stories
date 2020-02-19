@@ -1,0 +1,4614 @@
+[
+  {
+    "id": "1",
+    "name": "Let's get started!",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "This is "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Jess",
+            "content": "Jess"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ". She's in her first year at high school. A lot of things are different now - there's so much homework, the classes are really hard, and it feels like everything is a lot more serious than it was in middle school. In fact, the whole month has been a little stressful."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Now that she's done with school for the day she wants to do something to relax. She could check her Instagram feed, watch Stranger Things, or see if there are any new Snap Stories."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div id=\"flexbox\">"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "instagram-logo.png"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "netflix-logo.png"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "snapchat-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "instagram",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess wants to see what's new on instagram. She's pretty good at art and likes posting her work for everyone to see. Last night she posted a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "picture",
+            "content": "picture"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of her most recent drawing and she's excited to see how many comments and likes it got. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "A couple people liked it, but this girl Maddie commented \"Wow...so bad... #needsdrawinglessons\""
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Really? Who does that?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "How should Jess respond?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ignore it",
+        "content": "Ignore it"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Respond to Maddie",
+        "content": "Respond to Maddie"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Make a comment",
+        "content": "[[Make a comment]] on Maddie's posts"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "netflix",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess has thought enough for one day. She just feels like watching a few dozen episodes of Stranger Things before she starts her homework. She gets in bed and pulls out her laptop. Halfway through the episode she gets a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text",
+            "content": "text"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " from a random number. The person says they're Ryan, a boy from her english class. Ryan is funny - a total class clown, but he also seems smart and is friends with pretty much everyone."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "what should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Respond",
+        "content": "Respond"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ignore him",
+        "content": "Ignore him"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "snap stories",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess decides to see what stories are new. Most of them are pretty boring today, but she sees a snap from Olivia, one of her friends since middle school. Olivia hardly ever uses snapchat, but today she's snapped a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "selfie",
+            "content": "selfie"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of herself and another friend.  "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It's really annoying because Jess asked Olivia if she could hangout this afternoon and she said she had to do homework today."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Creep",
+        "content": "[[Creep]] on Olivia's Instagram to see who her new friend is"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Text another friend",
+        "content": "[[Text another friend]] to see if they can hangout"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "selfie",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img4\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Why would Olivia lie about doing homework? Her new friends looks pretty cool. Jess wonders how they met."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Creep",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess is really curious to see who Olivia's new friend is. Jess and Olivia pretty much have the same friend group, but she's never seen this mystery friend. She's a little jealous that Olivia didn't invite her to get coffee, but she's also kind of embarrassed that she feels that way - Olivia's allowed to have other friends, right?"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Still, Jess can't stop thinking about who this person is. She logs onto her instagram account and starts scrolling through her feed to see what's new. There's a post of Olivia and her new friend. She sees that the friend has been tagged and goes to her profile. Jess is really surprised to see there are "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "pictures",
+            "content": "pictures"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of her drinking alcohol - what kind of idiot would post that?"
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She also notices that this girl has like a thousand followers. Jess has never been worried about followers, but something about seeing so many makes her jealous."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Figure out how to get "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "more followers",
+            "content": "more followers"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ""
+          }
+        ]
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "keep creeping",
+        "content": "keep creeping"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Text another friend",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess texts a couple of other friends, but nobody is able to meet up. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She's really bored and based on people's stories it seems like everyone is doing something fun right now but her."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess decides to check out her instagram."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She just posted a drawing she made and wants to checkout how many people liked it. When she logs in she notices there's a new follower request. She doesn't recognize the account. What should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Approve",
+        "content": "[[Approve]] the request"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Deny",
+        "content": "[[Deny]] the request"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "text",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "(734) 555-0273",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Hey this is ryan"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Whatre you up to?"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This is kind of weird - Jess hardly ever gets texts from people she doesn't know. There is a guy named Ryan in one of her classes, but who would have given him her number?"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "9",
+    "name": "Respond",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess really wants to make new friends, but she doesn't know how Ryan got her number. She texts him back, but things soon get a little "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "weird",
+            "content": "weird"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ". "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell him no",
+        "content": "Tell him no"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Send a picture",
+        "content": "Send a picture"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Ignore him",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess doesn't know who this actually is. It could be someone pretending to be Ryan to try and trick her. Jess usually doesn't text back if she doesn't recognize the number. Besides, she'd rather relax than talk to someone right now."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The next day at school Ryan comes up to Jess and asks her why she never responded to his text. Jess tells him that she was busy last night and didn't check her phone - she didn't want to get into the rules she has about answering texts from people she doesn't know."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "During class Jess and Ryan start texting. Ryan is hilarious, but his jokes start to get more and more mean. He starts making fun of this guy in class name Sam. He sends "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "a picture",
+            "content": "a picture"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " he's photoshopped of him."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The picture is funny, but Jess knows that making fun of people is wrong. At the same time she is really enjoying talking to Ryan and doesn't want to ruin the mood. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell him to stop",
+        "content": "Tell him to stop"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Go with it",
+        "content": "Go with it"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "weird",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Hey this is ryan"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Whatre you up to?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Watching stranger things. You?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "That show is awesome. Almost as awesome as your comment in mr. Griffiths class"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Your hilarious"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Kind of cute to"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "=) You're not so bad yourself."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I'd love to see more of you. Will you send me a pic?"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Wow. This is the first time anybody has asked Jess to send nudes. It's kind of flattering, but also a little weird."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "12",
+    "name": "Tell him no",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess knows that sending Ryan a picture of herself would be a bad idea. Who knows if Ryan would pass it along to somebody else? She tells him that she's not interested."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "She tells him "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text5",
+            "content": "no"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " and he starts to get pushy. It's probably time to block Ryan."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess report him?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "rpt",
+        "content": "Yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ign",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Send a picture",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Ryan's compliments make Jess feel really good about herself. It's nice to get attention like that - especially from someone as cool as Ryan. Sending one picture couldn't hurt, right?"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess sends a picture of herself to Ryan. Later that night she gets "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "a text",
+            "content": "a text"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " from Olivia."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Oh my god! This is so embarrassing! How many people saw that picture she sent to Ryan?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess is mortified. She really doesn't want anyone - especially - her parents to find out she was sexting. What can she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Talk to Ryan",
+        "content": "Talk to Ryan"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ask a friend for help",
+        "content": "Ask a friend for help"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Tell him to stop texting her",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess lets Ryan know that she's not cool with him texting her anymore. She doesn't want to be friends with someone like that. "
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "He got really "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "mad",
+            "content": "mad"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " and started texting her. It was kind of scary - it seems like Ryan is unstable. Jess thinks it's a good idea to block his number."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She also went through all of her social media accounts and blocked Ryan. There's still the question of whether or not Jess should report Ryan."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report him"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Drop it",
+        "content": "Drop it"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Ignore it",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess decides to be the bigger person, she doesn't need all that drama. She starts checking out her friends posts when she sees that Maddie has been making mean comments on a lot of people's posts. That's definitely not ok."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Maddie is being so mean. She's even been posting pictures of people without their permission. "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "This one",
+            "content": "This one"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " got a lot of attention. Indira, the girl in the picture, is a little weird and doesn't have many friends, but she's nice - besides, no one should be bullied."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Comfort",
+        "content": "[[Comfort]] Indira"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Confront",
+        "content": "[[Confront]] Maddie"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Make a comment",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "If Maddie is going to be rude, Jess might as well be rude back, right? She checks out some of her posts. A lot of Maddie's posts are just terrible. It's really easy for Jess to go through and post mean comments."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She only makes a few comments, but soon people are messaging Jess telling her how hilarious she is. It seems like Maddie had a lot of people who didn't like her. It feels pretty good to be getting all these texts. Jess has never been popular, but this is what she imagines it must be like."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "As she's falling asleep, Jess feels a little guilty, but at the same time she feels like Maddie deserves it."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The next day at school Maddie is being her same old self. A part of Jess thought that if Maddie saw what it was like to be bullied she might stop."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess talk to Maddie?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Talk to Maddie",
+        "content": "Yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ignore Maddie",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "a text",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Olivia",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "You sent Ryan Nudes!?! That was such a bad idea!!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "WHAT? HOW DID YOU FIND OUT???"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "He sent thim to all his friends! MAlik just told me."
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "oh no oh no oh no oh no"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "What do I do??"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "You have to report it!"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This cannot be happening. Why would Ryan share those pictures?! Jess though that only happened when people made each other mad - she hasn't done anything to Ryan!"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "18",
+    "name": "Comfort",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Nobody deserves to be cyberbullied. Indira must be really upset. She probably feels like everyone is laughing at her. Jess wants her to know that not everyone is a jerk. She decides to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text Indira",
+            "content": "text Indira"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to see if she's doing alright."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess feels good about what she did. For Indira, It really helped to have someone check in. She made a great point about reporting cyberbullying. Maddie is mean to a lot of people. Indira was ok, but what about everyone else?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report Maddie"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "netflix",
+        "content": "forget about it"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Confront",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Enough is enough. There's no way Jess is going to let Maddie get away with being rude to everyone. She decides to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text Maddie",
+            "content": "text Maddie"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to let her know that not only is what she's doing not ok, it's illegal. "
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Maddie didn't seem to care, but at least Jess stood up for something. Jess thinks that maybe Maddie will think twice before posting next time, but an hour later she posts a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "gif",
+            "content": "gif"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of one of the track team members."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It definitely seems like telling her to stop isn't going to cut it."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Make a report"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Make a comment",
+        "content": "[[Make a comment]] to shut Maddie up"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "This one",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img3\" title=\"Photo of teenager eating by Paul Schultz\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Why is Maddie doing this? Everyone looks bad when they're mid-bite. That's one of the worst things to post without permission."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Jess",
+    "content": [
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "jess-bio.png"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess is a Freshman at Allatoona High School. She wishes she could tell you that high school has been fun so far, but for her that's not true."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Welcome!",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Welcome to Washtenaw Area Council for Children's Cyber Safety Exploration Module. In this module you will act as an advisor to a high school student, helping her make tough decisions with serious consequences. To learn how to play, click the 'Instructions' link below!"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Instructions",
+        "content": "Instructions"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "text Indira",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Indira",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Hey I saw Maddies post. That's really messed up. Are you ok?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I'm ok. Thanks for checking in. What was that about? I don't even know her."
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "She's a jerk. You should just ignore her."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "You can ignore her, but if she does that again I'm going to report her."
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Great idea =)"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Indira is pretty serious about this. Jess would be too if someone had posted a picture of her."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "24",
+    "name": "Approve",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "This could be somebody Jess knows! She checks out the profile and it turns out that it's some guy named Liron who goes to a different high school. She normally wouldn't approve a request from someone she doesn't know, but there are several other people she knows that he is following. He's probably a friend of a friend. It's hard being at a new school with all new people, so Jess is eager to make all the friends she can. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She accepts the follower request and in a matter of hours the two are texting. Liron is like Jess in a lot of ways. They're both artsy, listen to the same music, and they're both having trouble adjusting to high school."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "He "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "texting",
+            "content": "invites"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Jess to go to a thrift shop downtown. He says that you can find some great stuff there. Plus, it's only a few minutes from Jess's house."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess is really bored, should she meet Liron to go shopping?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Yes",
+        "content": "Yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "No",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Deny",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess has a personal rule where she never accepts requests from people she doesn't know. It could be a bot or someone creepy."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Also, while she really doesn't want to think about it, she has two tests on Friday and a ridiculous amount of homework she needs to start."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The next day at school Jess's art teacher tells the class about a regional art association. It's very prestigious - hardly anyone gets in. Everyone in the organization is really creative. Jess really wants to apply. Not only would it look great on a college application, but it's a great opportunity to practice her art."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "When Jess applies the organization is definitely going to look at her social media presence. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Delete any negative posts",
+        "content": "Delete any negative posts"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "post more art",
+        "content": "post more art"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "picture",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "There are few things that Jess loves more than art. She was in a couple art clubs in middle school and now she's really looking forward to the art classes that are available in high school."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Blame",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess explains that Maddie was the one who had started the whole thing. She was the one who wrote malicious comments, posted fight videos, and other people's pictures without permission. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Unfortunately, there's no proof. All of the comments and posts were gone when Jess tried to verify her story. Maddie must have deleted them over night."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Now it looks like Jess started everything! This is terrible!"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Admit that she made a mistake",
+        "content": "Admit that she made a mistake"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ask why Jess is in trouble",
+        "content": "Ask why Jess is in trouble"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Deny posting anything",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess tries to deny posting anything negative, but the administrator pulls up the posts. He explains that under "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Matt's Safe School Law",
+            "content": "Matt's Safe School Law"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " bullying outside of school can have in school consequences. The only thing to do now is for Jess to accept her punishment."
+          }
+        ]
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending4",
+        "content": "The End"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Admit that she made a mistake",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "The administrators somehow already know everything that happened. Maddie must have reported Jess's comments to the school."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This is ridiculous! Maddie started everything. If anything, she should be in the office right now. Jess wishes she could take everything back, but what's done is done. Even if she had deleted her posts, someone could have taken a screenshot and the outcome could still be the same."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The only thing to do now is to accept her discipline."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending4",
+        "content": "The End"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Ask why Jess is in trouble",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess asks why she's in trouble at school anyway. This happened after school hours, it wasn't using school devices, and the school wasn't even mentioned!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "The administrator explains "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Matt's Safe School Law",
+            "content": "Matt's Safe School Law"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to Jess."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess feels terrible. Could she really be like the bullies who hurt Matt? She wishes she could go back in time and change what she did. The only thing left to do now is to accept her punishment."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending4",
+        "content": "The end"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Matt's Safe School Law",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Matt Epling was an eighth grader in Michigan. He was being severely bullied at school and online. Feeling that there was no way out, Matt committed suicide. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Matt's father pushed for the Matt's Safe School Law to ensure that nobody would ever have to experience bullying. This law gives school authorities the legal right to discipline bullies even if the bullying did not occur at the school."
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "ending4",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "It sounds like Jess didn't make the best decisions. Even if another student is a bully, it is <i>never</i> ok to bully them back. there are lots of other ways to deal with a bully, like blocking them, reporting the incident, or telling them to stop."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Yes",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "What's the harm, right? The thrift shop is a public place and she'll let her dad know where she's headed."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess is really excited to make a new friend. She heads downtown and waits outside for Liron. After a few minutes of waiting a car slowly rolls up to the storefront. a man pokes his head out of the window and asks if she's waiting for Liron."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess..."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "..."
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "say yes",
+            "content": "say yes"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ""
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "..."
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "go inside",
+            "content": "go inside"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "No",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess thinks the store sounds pretty cool, but there's no way she'd meet up with a stranger online. Who knows what could happen? "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She tells Liron that she can't do anything today. Besides, while she really doesn't want to think about it, she has two tests on Friday and a ridiculous amount of homework she needs to start."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The next day at school Jess's art teacher tells the class about a regional art association. It's very prestigious - hardly anyone gets in. Everyone involved is really creative and they do awesome collaborative projects. Jess really wants to apply. Not only would it look great on a college application, but it's a cool opportunity to practice her art."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "When Jess applies the organization is definitely going to look at her social media presence. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Delete any negative posts",
+        "content": "Delete any negative posts"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "post more art",
+        "content": "post more art"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "say yes",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "The man asks again if she's waiting for Liron. He claims to be Liron's father. He says there was a change of plans and that they're actually meeting at the bowling alley a few blocks over. that seems really suspicious. Why wouldn't Liron just text her? The man offers to give Jess a ride."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "That seems like a terrible idea - Jess is never going to get in a car with a stranger. She's getting a lot of weird vibes from this situation. She doesn't say anything and decides to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "go inside",
+            "content": "go inside"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " the store."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "go inside",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess goes inside the store and calls her dad to come pick her up. When she gets home she decides to tell her dad about what happened. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "They both agree that she shouldn't approve requests from people she doesn't know. Jess feels really weird about what happened. She didn't know who that man was that leaned out of the window. She guesses it could have been Liron's dad, but the whole experience made her feel uncomfortable."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Shortly afterwards she gets a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "angryliron",
+            "content": "text"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " from Liron."
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Everything about this seems weird. Jess doesn't respond to his text, but then she gets a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "DM",
+            "content": "DM"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " on instagram from him."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She decides to block his number and go through her social media accounts to make sure he isn't following her."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess makes a report, which hopefully will mean the end of her interaction Liron. She doesn't know much about him, but she does know his accounts and provided a description of Liron's \"dad.\""
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending8",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "text Maddie",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Hey Maddie. I don't like what you're doing on Instagram. What you're doing is illegal and it's obviously messing withe people."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Whatever"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess doesn't get how someone can still be so mean when they're clearly wrong. Why would Maddie try to hurt all those people?"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "38",
+    "name": "Respond to Maddie",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "There's no way Jess is going to let Maddie get away with being a jerk online. She decides to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text Maddie",
+            "content": "text Maddie"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to let her know that not only is what she's doing not ok, it's illegal. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Maddie didn't seem to care, but at least Jess stood up for something. Maybe Maddie will think twice before posting next time."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess goes back to scrolling through her instagram feed, but within ten minutes she sees Maddie has posted a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "gif",
+            "content": "gif"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of a track team member messing up at the last competition."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report it"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Make a comment",
+        "content": "[[Make a comment]] on Maddie's posts"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "texting",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Liron",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Do you like it?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "It's alright. There's soo much homework. But I have a lot of classes that are interesting."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "That's cool. I don't have ANY friends in my classes. Have you been to the value city downtown?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "No is it good?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "It's life changing. I got a floor length fur coat there for like $20"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Woah. Think they'd have vintage cameras? I really want a polaroid."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Oh they definitely have one"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This place sounds really awesome. Most of the thrift stores Jess has been to don't have anything intersting. She also is really enjoying talking to Liron - he seems pretty cool."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "40",
+    "name": "Drop it",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess doesn't want to make a big deal out of this, she just wants Ryan to leave her alone. She needs to take her mind off of the whole situation. She decides to check out what's new on instagram."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "She's pretty good at art and likes posting her work on instagram. Last night she posted a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "picture",
+            "content": "picture"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " of her most recent drawing and she's excited to see how many comments and likes it got."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "A couple people liked it, but this girl Maddie commented \"Wow...so bad... #needsdrawinglessons\""
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Really? Who does that?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "How should Jess respond?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ignore it",
+        "content": "Ignore it"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Respond to Maddie",
+        "content": "Respond to Maddie"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Make a comment",
+        "content": "[[Make a comment]] on Maddie's posts"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "text5",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Id love to see more of you. Will you send me a pic?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Are you serious?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "No way!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Come on! Why not?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "First of all, that's like child porn. Also, I don't even know you. I'm not going to send a picture to you."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Don't be such a prude! Just send me a picture!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "I already said no. Stop asking me."
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ryan needs to learn that no means no. How is he not embarrassed of how desperate he's seeming?"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "42",
+    "name": "rpt",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess feels like Ryan's behavior is totally inappropriate. She shouldn't have to put up with people she barely knows asking to see her naked. "
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "She decides to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Tell an adult",
+            "content": "make a report"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "ign",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Making a report isn't worth it. Jess isn't even sure what she would report anyways. In her mind, it's best to just block Ryan and forget it ever happened. "
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess decides to go on "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "keep creeping",
+            "content": "instagram"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to take her mind off of it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "video test",
+    "content": [
+      {
+        "JSXType": "video",
+        "linksTo": null,
+        "content": "fight.mp4"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Talk to Maddie",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess waits until Maddie separates from her friends and goes up to talk to her. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "At first Maddie is her usual self - rude, but after Jess keeps trying to talk to her they end up having a really good conversation. They eventually get to the topic of why Maddie is such a jerk to everyone. As usual, Maddie avoids the question, but it later comes out that there's something serious going on for her."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She was sexting with her boyfriend, but now that they're broken up, he keeps threatening to expose her. This is terrible! even Maddie doesn't deserve that kind of stress."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Suggest doing the same thing to him",
+        "content": "Suggest doing the same thing to him"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Suggest going to the police",
+        "content": "Suggest going to the police"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Ignore Maddie",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "That night Maddie posts a link to a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "video test",
+            "content": "fight video"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ". Lots of people have viewed it and the comments are devastating. Jess recognizes a few of the people. She knows that Maddie and Vicki - the girl who was hit in the video - don't like each other. Their Twitter beefs are legendary."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It's pretty obvious that Maddie is trying to spread the video around to embarrass her. Jess decides to make a post calling Maddie out. Since Maddie's main goal is to embarrass people, Jess thinks everyone should remember the time Maddie slipped in the cafeteria and dropped her food all over herself. She also encourages everyone else to post their favorite memories of Maddie being stupid."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "People go crazy over this. Messages and hilarious stories pour in. It seems like there are hundreds of people who hate Maddie. Jess logs out for the evening - satisfied that justice has been served."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The next day at school Maddie doesn't show up. This makes Jess feel a little nervous - is Maddie sick? Did she do something serious? Was Jess being a cyber bully?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess text Maddie to see if she's ok?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "text her",
+        "content": "Yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ignore her",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "a picture",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Ok so I need your help with something"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Oh really. What's up?"
+            },
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop.jpg"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "What else can I do to sams picture before I post it?"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Sam isn't very popular, but he's really friendly. He kind of has a lazy eye and just the slightest unibrow, which makes this photoshop accurate, but also really, really cruel."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "48",
+    "name": "Tell him to stop",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "photoshop3",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Ryan back. Making jokes is one thing, but taking somebody's picture and photoshopping it is seriously messed up. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ryan says he was just kidding - that Jess was making a big deal out of nothing. It still feels wrong to Jess, though."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "what should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report him"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell him to stop texting her",
+        "content": "Tell him to stop texting her"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Go with it",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "photoshop2",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Ryan back. Photoshopping someone's picture as a joke is pretty funny, but spreading a fight video? That seems messed up. She knows a fight happened and one of the girls had to get stitches. "
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Ryan sends her a link to the "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "video test",
+            "content": "fight video"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ". Watching it makes Jess really upset."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Why would anyone want to watch that?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess..."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "..."
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Report the video",
+            "content": "Report the video"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ""
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "..."
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Pretend to like it",
+            "content": "Pretend to like it"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "pictures",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img2\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It's pretty bold to put that stuff on Instagram. If her parents or teachers or anybody saw that, she's going to totally get caught."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "more followers",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess thinks pretty hard about how she can get more followers. She can't really explain why she wants more - her rule is usually not to accept any followers she doesn't know, so she has less than 100. She googles how to get more followers and ends up on this website called likestagram. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It's advertising this bot that will go through and like posts and pictures. The more pictures you like, the more likely you are to get new followers. It seems like a really good idea!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess use the like bot?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "like bot",
+        "content": "Yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "no bot",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "keep creeping",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "As she logs on to her instagram account, she sees that she has a new follower request. She doesn't know who the person is. What should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Approve",
+        "content": "[[Approve]] the request"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Deny",
+        "content": "[[Deny]] the request"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "like bot",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Using the like bot will make getting followers so easy. Jess thinks she'll probably get dozens overnight."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She makes an account for the bot, links it to her instagram, and starts working on her homework. Jess feels like a genius. Why has no one talked about this before?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "A few hours later she checks her profile and sees just a few follower request. She's pretty bummed, but a few is better than none. She accepts the request and puts Stranger Things on in the background while she thinks about how to get more followers."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Soon her phone vibrates. She's gotten a DM request from the follower she accepted."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess accepts the request, but now really "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "wishes she hadn't",
+            "content": "wishes she hadn't"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ugh! - That's disgusting! Who even does that? That was totally violating. That guy was like 50 years old. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell her dad",
+        "content": "Tell her dad"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell him to get a life",
+        "content": "Tell him to get a life"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "no bot",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "The idea is definitely intriguing, but it also seems like it could be a bad idea. How does the bot choose which posts to like? What if it likes a bunch of weird stuff?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Coincidentally, right as Jess is about to logout she gets a request from somebody. She doesn't recognize the account, but the persons profile picture looks kind of familiar. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Approve",
+        "content": "[[Approve]] the request"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Deny",
+        "content": "[[Deny]] the request"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "wishes she hadn't",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img6\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What a pervert! Who would send a picture like that to someone they don't know! Plus he looks so gross!"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Tell her dad",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "That picture was so gross... What if that pervert sends another one? Jess doesn't know what to do. She goes to her dad and tells him what happened. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Her dad looks really angry - how could someone send a nude picture of themselves to a minor? He's also disappointed with Jess. When Jess set up her accounts she had to promise that she wouldn't accept any follower or friend requests from people she didn't know."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Her dad says that Jess needs to delete all her social media accounts! That's so unfair! Jess didn't do anything wrong! Now she's going to miss out on everything."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "delete",
+        "content": "Delete her accounts"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Pretend to delete her accounts",
+        "content": "Pretend to delete her accounts"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Tell him to get a life",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "messages",
+            "content": "messages"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " the creepy guy telling him to leave here alone. She also blocks his profile and reports the experience. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Still, Jess is a little shaken up. That was really creepy. Jess thinks she'll have to be more careful next time. If he contacts her again somehow she'll delete her accounts. That was just too weird."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending5",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Pretend to delete her accounts",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess doesn't want to lie to her dad, but there's no way she's going to delete her accounts. She'd lose all her followers, there's lots of photos she hasn't backed up, and she wouldn't be able to find all the content on her pinterest board again. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She tells her dad that she deleted her accounts, but continues to use them when he's not around. She feels really guilty, but his punishment was completely unfair."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "A few days later Jess gets into a fight with this girl she knows from school named Maddie. Maddie is really annoying. She posts a lot about other people and Jess knows for a fact that she spread a rumor around school that one of her friends was doing drugs."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "When Maddie got a question wrong in class Jess couldn't help but laugh. Maddie turned really red and called Jess an idiot. Before the teacher could step in, Jess pointed out that she wasn't the one failing geometry."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "That night she got a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "photoshop",
+            "content": "text"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " from Maddie."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Report her",
+        "content": "Report her"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ask what she wants",
+        "content": "Ask what she wants"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "photoshop",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "People are going to be so sad when they see perfect Jess smoking :("
+            },
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop2.jpeg"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Dude... Are you serious? That's the worst photoshop I've ever seen. Nobodys going to believe that"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "How much do you wanna bet?"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess really hopes people won't beleive that picture, but a part of her thinks that people will believe whatever they see on the internet. Why is Maddie doing this?"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "60",
+    "name": "Report her",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "First of all, Maddie did a terrible job editing that photo. Second, if Jess responds in any way, Maddie'll get what she wants. It's a lot better to just ignore her, but Jess doesn't want her to get away with it either. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She would normally tell her dad, but she already feels like she's on thin ice after the issues with her social media accounts. Who should she go to?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Tell an adult"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Talk to a friend",
+        "content": "Talk to a friend"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Ask what she wants",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "This is ridiculous. Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "texts back",
+            "content": "texts back"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to see what Maddie wants. Is she seriously trying to blackmail her into doing geometry homework?"
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "That photoshop job really is terrible. But what if people actually believe it? There are tons of edited images in magazines and people totally believe those."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Ask someone for help",
+        "content": "Ask someone for help"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Go along with it",
+        "content": "Go along with it"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "texts back",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop2.jpeg"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Dude... Are you serious? That's the worst photoshop I've ever seen. Nobodys going to believe that"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "How much do you wanna bet?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Ok... What do you want?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Since ur soo smart you can do my geometry homework from now on. Wont be failing now, will I?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "or I can just show everyone"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ugh! If Maddie wasn't so stupid she could just do her homework herself. Jess feels like she's trapped - she doesn't know how to respond."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "63",
+    "name": "Ask someone for help",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Blackmail? Really? Jess isn't going to do Maddie's geometry homework! That's ridiculous. "
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess would rather take her chances with the photoshopped picture. She's not going to just let Maddie send it out, though. She's going to "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Tell an adult",
+            "content": "report it"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Go along with it",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess thinks it's probably better to be safe than sorry. She makes a copy of the geometry and gives it to Maddie next morning. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "That afternoon Jess gets called to the office to talk to Mr. Grant, one of the school's administrators. Maddie didn't recopy the homework, so the teacher saw two different student's assignments in the same handwriting!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Mr. Grant wants to know why Jess and Maddie have been cheating. Jess didn't want it to come to this, but she reveals the text messages. Mr. Grant is shocked - blackmail is a serious crime!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thankfully Jess is now off the hook for the cheating."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending3",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Tell an adult",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "The next day at school Jess plans on going in to the office to tell the administration about what happened. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess is pretty bummed because the only time she'll be able to go is during lunch. The office is always so busy that she probably won't get back in time to hang out with people."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "She's also worried that she'll be seen going into the office, people will get in trouble, and then someone will put two and two together. What if everyone thinks she's a snitch? Jess notices a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "poster",
+            "content": "poster"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " pinned to the wall outside the office."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Should Jess use ok2say?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "use it",
+        "content": "yes"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "dont use it",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Talk to a friend",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess has no idea what to do. That was such a weird message from Maddie. She "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "texts Olivia",
+            "content": "texts Olivia"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to see what she should do."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "It seems like the only real choice is to make a report and hope if Maddie does spread the picture that no one will believe it."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Make a report"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "poster",
+    "content": [
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "ok2say.png"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess has seen these posters everywhere. Maybe she should check out the website."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "name": "use it",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "This seems like it could solve a lot of problems. Maybe Jess can just submit a tip - she heard something about them being confidential."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess doesn't want to get anyone in trouble, but justice has to be served. That night she uses the website to submit a tip. Jess breathes a sigh of relief and hopes that this will sort everything out!"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending14",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "name": "dont use it",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "It's probably easier to just talk to an administrator. Jess walks into the office and shares what's been going on with Mr. Grant."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "He says he's very concerned with what Jess showed him and promises to make sure everything gets sorted out. Jess feels pretty good. She knows she did the right thing."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending14",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Delete any negative posts",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess usually doesn't post anything questionable, but she wants to double check to make sure. It would be really lame to get denied because of a bad post. Jess scrolls through all of her posts - some bring up great memories, but a lot of her photos and posts from middle school are just embarrassing. It really seems like she had an unhealthy obsession with Harry Styles."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "After a half hour of editing her online reputation Jess feels satisfied. Her posts are great - her instagram account is an awesome digital portfolio. She goes online and fills out the art association application!"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending12",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "post more art",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "It couldn't hurt to add more content. Jess takes some pictures of work she hasn't shown anyone before and posts them. Her social media accounts are becoming a really cool digital portfolio. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess feels really confident that she can get in - she starts the application process and is pleased that the hardwork she put into cultivating a positive digital presence will pay off."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending13",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "text her",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess is now getting a little worried. She "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "maddietext",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Maddie to apologize. She meets Maddie at a coffee shop. Something must be really wrong because Maddie is not nearly as mean as she usually is. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "They actually have a great conversation. They eventually get to the topic of why Maddie is such a jerk to everyone. As usual, Maddie avoids the question, but it later comes out that there's something serious going on for her."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She was sexting with her boyfriend, but now that they're broken up, he keeps threatening to expose her. This is terrible! even Maddie doesn't deserve that kind of stress."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Suggest doing the same thing to him",
+        "content": "Suggest doing the same thing to him"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Suggest going to the police",
+        "content": "Suggest going to the police"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "ignore her",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Maddie isn't there the next day either. In English class Jess gets called to the office. Jess's heart is pounding. What could be going on? Jess is a good student who has hardly ever gotten in trouble at school. Mr. Grant, the school administrator, sits down and asks Jess if she has posted anything questionable online. What should Jess do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Blame",
+        "content": "[[Blame]] Maddie"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Deny posting anything",
+        "content": "Deny posting anything"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Admit that she made a mistake",
+        "content": "Admit that she made a mistake"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "maddietext",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Hi Maddie. Look, I'm sorry abot last night. That was really messed up. It justbothers me that you were spreading that fight video"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Why would you care?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "About the video or being mean to you?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Both"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Well you have to admit, spreading a video like that is terrible. But it doesn't mean tha whay I did to you is ok. Can we meet up to talk about it?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I'm at the coffe shop on 1st st. Maybe I'll still be here if you want to come by."
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Typical Maddie response. It does seem like she's open to talking, though. Maybe Jess will find out why she's being such an annoying person."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "75",
+    "name": "Suggest doing the same thing to him",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess has a really good idea - Maddie has inappropriate pictures of him too! If Maddie tells her ex that she'll expose him, maybe they both will stop being so stupid. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Maddie agrees that this might work. The two go to their different classes. Jess feels really good that she was able to give Maddie advice. She wonders if one day they'll be friends. Deep down Maddie isn't quite as bad as she seems. On the surface, though, she's obnoxious."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "That night Jess gets a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "exposed",
+            "content": "text"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " from Maddie."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ugh! I guess Jess's advice wasn't so great after all. Jess feels really bad for Maddie, especially since it was partially Jess's fault. How can Jess help her?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Suggest going to the police",
+        "content": "Suggest going to the police"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "icanhelpline.org",
+        "content": "icanhelpline.org"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Suggest going to the police",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "convinces Maddie",
+            "content": "convinces Maddie"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " to go to the police. Posting nude images of a minor is terrible! Her ex can't just ruin her life - it's not fair!"
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Maddie reports the inappropriate content on reddit. That weekend Jess goes with her to the police station to make a report. Maddie was really worried that she would get in trouble for taking pictures in the first place, but Jess assured her she would be fine."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Luckily the pictures were removed quickly and the police at the station helped Maddie to file a report."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending15",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "exposed",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "JESS YOU IDIOT!!!!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "UGHHH WHY DID I TAKE YOUR STUPID ADVICE YOU JUST RUINED MY LIFE"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "What? What's going on?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I told theo that I would post the pictures I had of him if he did. He didn't believe me and now he posted all my nudes on  reddit! Everyone is going to see them!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Your so freaking stupid!!!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Oh no!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Maddie I am so, so sorry!"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Maybe this was a terrible idea. Jess feels so bad for Maddie. That would be really humiliating - how could someone do that to another person?"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "78",
+    "name": "icanhelpline.org",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess knows that Maddie isn't going to want to talk to her parents or the police. She remembers seeing a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "poster",
+            "content": "poster"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " explaining a way to make a confidential report. She also tells Maddie about a site called icanhelpline.org - they can help take things off the internet. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "After thinking about it for a while, Maddie agrees to use those resources to make reports. At least this way she won't have to talk to anyone face to face."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending15",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "ending12",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The majority of recruiters say they look at candidates social media profiles, so deleting anything questionable is a really good call!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "ending13",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "The majority of recruiters say that positive content has impacted their decision when choosing who to accept! Good call posting unique content."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "angryliron",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Liron",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "No is it good?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "It's life changing. I got a floor length fur coat there for like $20"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Woah. Think they have vintage cameras? I really want a polaroid."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Oh they definitely have one."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Jess... Seriously? Why didn't you come to the bowling alley?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "My dad went to pick you up"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Do you think I'm some kind of kidnapper? I can skype you to prove I'm not..."
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Nope. There's no way Jess is going to talk to him anymore. She feels really lucky to have gotten out of that situation alright."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "82",
+    "name": "DM",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img5\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Why is he messaging Jess?! There's no way she actually believes that Liron is who he claims to be. He's starting to really freak her out."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "ending14",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Talking to school officials and using ok2say are both great ways to report bad things that happen online. You helped Jess make some great decisions!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "delete",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess doesn't want to delete her social media accounts. She's spent so much time making her instagram account, she has so many heartfelt messages from her friends, and she seriously doubts she'll be able to find all of the cool things on her Pinterest boards again. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Unfortunately, she broke her promise to her dad. While she's disappointed, she understands his side of it, so she deletes all of her accounts."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending7",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "convinces Maddie",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Maddie",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "oh no!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Maddie I am so, so sorry!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Maddie you have to go to the police! That stuff is considered child porn. He can't get away with posting that."
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "We can make a report on reddit to try and get the pictures taken down too"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I can't believe this is happening... My life is over"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Won't I get arrested for taking the pictures in the first place?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "No... I don't think so. It's way worse to post those pictures than to take them, You'll be ok!"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess remembers hearing that the police hardly ever go after teenagers who take and send nudes. They almsot always go after the people who post them online and try and hurt other people by spreading them."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "86",
+    "name": "ending15",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess and Maddie made some tough choices. With cases of exposure and sexual content of a minor, reporting it is always the right decision."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "photoshop3",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop.jpg"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "What else can I do to sams picture before I post it?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Are you serious, Ryan? That's so mean. Why would you do that?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Jeez dont freak out. I didn't know you were in love with the guy. Its just a joke you know"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Yeah. I know. I just don't think it's funny."
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Whenever someone is mean they always just try and play it off like a joke. Jess is so sick of it."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "88",
+    "name": "photoshop2",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop.jpg"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "What else can I do to sams picture before I post it?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "OMG... I'm dying... Ryan, you are hilarious!!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I know it ;)"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Did you see the fight that happened yesterday?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I got a video of it - its going straight to youtube!"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "First photoshopping and now posting fight videos. Jess is starting to think Ryan is kind of mean. Funny, but mean."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "89",
+    "name": "gif",
+    "content": [
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "200w_d.gif"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "mad",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Are you serious, Ryan? That's so mean. Why would you do that?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Jeez dont freak out. I didn't know you were in love with the guy. Its just a joke you know"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Yeah. I know. I just don't think it's funny."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Your acting like your better than me and its really annoying"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I'm just making a joke and you have to get all serious on me. Do you have any fun at all?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I guess what people are saying about you is true. You act like your cool and artsy but your not. YOUR A FREAKING LOSER!"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ryan has some serious anger issues! Jess has never been talked to that way. She's kind of worried about seeing him tomorrow at school"
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "91",
+    "name": "Talk to Ryan",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "texts",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Ryan to see what is going on."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She can't believe this is happening. What a cruel thing to do to somebody - he's trying to blackmail her!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She can't go through with it, though. If she does what he's asking it'll just lead to more blackmail. He's definitely not the nice guy he pretended to be. How can Jess make sure he doesn't start any more trouble?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report him to school administration"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Go to the police",
+        "content": "Go to the police"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Ask a friend for help",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "text olivia",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Olivia to see if she has any advice."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess has to report it. Ryan has broken a lot of serious laws. He was so smug about it earlier, Jess doubts he knew he was breaking the law."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "How should Jess go about reporting Ryan?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Through the school"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Go to the police",
+        "content": "Through the police"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "texts",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Are you serious, Ryan!? Why did you send my picture to your friends?!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Woah woah woah. FRIEND not friends. I only showed it to Malik"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "ARE YOU CRAZY? That doesn't matter!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "it does tho."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I mean could you imageine if I sent that picture to everyone at school?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "I can't believe you."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Look I wont show anyone else"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Look I wont show anyone elseIf you send me another pic ;)"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This is infuriating. How did Jess ever think that Ryan was cool? He's being a little sociopath."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "94",
+    "name": "Go to the police",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess doesn't feel like she has a lot of options - she has to go the police. That weekend Olivia goes with her to the police department and Jess makes a report."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She made a really bad mistake, but Ryan was actively trying to exploit and hurt her. Jess expected to get in trouble, but luckily everyone at the station was helpful."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending9",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "text olivia",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Olivia",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "You have to help me!"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "What am I supposed to do??? I'm seriously freaking out over here!!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "First of all chill"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Well get this fixed. I promise"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "You have to make a report. I just looked it up - sexting if your under 18 is child porn! That's got a really serious punishment"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "You'll be fine if you go forward. He did worse things than you did"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Ok - I can't go to my dad though. I'll never be ungrounded"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "You won't have to"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Olivia is so good at calming Jess down. It was getting really bad in Jess's head - thankfully she's a lot calmer now."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "96",
+    "name": "ending9",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess didn't make the best decisions, but in the end she made a really important one. When it comes to blackmail or threatened exposure, going to the police is a hard choice to make."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "ending8",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess probably shouldn't have met up with someone from the internet that she didn't know, but in the end she made a good decision reporting it!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "ending7",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess may have made some questionable decisions. Using a likebot may have seemed like a good idea at the time, but it sometimes can have bad results. "
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "messages",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "<div class=\"mod1-sprite-box\" id=\"img7\"></div>"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "This guy should be feeling really weird that he sent a picture of himself to a 14 year old girl, but he doesn't seem to care at all..."
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "ending5",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "It would have been a safer decision to block the man without responding, but making the decision to delete her accounts if he contacts her again is smart!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "texts Olivia",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Olivia",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "I need some help."
+            },
+            {
+              "isImage": true,
+              "isReceived": true,
+              "content": "photoshop2.jpeg"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "This girl at school is saying she's gonna send this picture to everyone. What should I do?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Hahahaha XD Thats the worst photoshop I've ever seen."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Just tell an administrator or something"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess doesn't find this as funny as Olivia seems to. She gave some alright advice, though. Maybe Jess can talk to someone tomrrow."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "102",
+    "name": "ending3",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Things worked out for Jess in the end, but blackmail should always be reported!"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Report the video",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "Jess can do something about the fight video without drawing attention to herself or making things weird with Ryan."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "After school she flags the youtube video and fills out a report - hopefully the video will be taken down in a couple days."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess also decides to see what other videos Ryan has uploaded - most of them are just vlog entries, but there's also a really "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "cool one",
+            "content": "cool one"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "."
+          }
+        ]
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Jess "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "art",
+            "content": "texts"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Ryan to see if he made the video."
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Working with his friend would be awesome. Jess feels like their art styles really compliment one another."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Maybe Jess will send her a text and see if they can work together on a project!"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "ending2",
+        "content": "The End!"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Pretend to like it",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Even though she feels weird about it, Jess keeps "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "newtext",
+            "content": "texting"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " Ryan. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Needless to say, Jess feels even weirder now. The things he's been saying lately make Jess question whether or not she really likes Ryan. Now he's asking her to take a major risk."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "She's not going to send him a picture, but what should she do?"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "tell him no 2",
+        "content": "Tell him no"
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Tell an adult",
+        "content": "Report him"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "cool one",
+    "content": [
+      {
+        "JSXType": "video",
+        "linksTo": null,
+        "content": "art.mp4"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "art",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Did you do that drawing video on your youtube account?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "It's really, really awesome"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "What video?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "The like fast motion doodle"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Ohhh! No I didnt make that. That was my cousin."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Shes in the art association here. U should talk to her. MAybe she can put in a good word for you"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Yeah! I'd love that. can you give me her number?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "7345556088"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Ryan's cousin is a really good artist. Jess would like to talk to her about her projects. In middle school she never had a group where she could talk about art. Maybe high shcool will be different."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "107",
+    "name": "ending2",
+    "content": [
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Lots of good decisions were made here! Flagging a fight video is a great way to be an upstander. Plus, by exploring the internet in a safe way, Jess might have found a really cool opportunity."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Thanks for playing our game!"
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "Click "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Let's get started!",
+            "content": "here"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " if you want to try a different path!"
+          }
+        ]
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-logo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "tell him no 2",
+    "content": [
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "Jess tells Ryan "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "noway",
+            "content": "no"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": " and he gets pretty angry. "
+          }
+        ]
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "That was some really rude stuff he was saying. What's his problem?"
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess isn't going to respond again. She blocks his number and deletes him from all her social media accounts."
+      },
+      {
+        "JSXType": "link:embedded",
+        "linksTo": null,
+        "content": [
+          {
+            "JSXType": "text:paragraphStart",
+            "linksTo": null,
+            "content": "She can't stop thinking about the stuff he said. That was so weird. Jess feels like people need to know about the way  Ryan was asking. She makes up her mind to go and make a "
+          },
+          {
+            "JSXType": "link",
+            "linksTo": "Tell an adult",
+            "content": "report"
+          },
+          {
+            "JSXType": "text",
+            "linksTo": null,
+            "content": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "noway",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Hey look weve been talking for a while."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I gotta ask... Cause I want to see more of you... Can you send me something ;)"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Seriously?"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "You're dreaming dude. There's no way I'm sending you anything."
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Dont be sucha prude jess!"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Just send me something. I'll send one to you"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "YOUR SUCH A TRICK"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "God this is why no one likes you anyways. Just kill urself"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "What a jerk? How is he going to tell someone to kill themself. That's seriously not okay."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "110",
+    "name": "newtext",
+    "content": [
+      {
+        "JSXType": "phone",
+        "content": {
+          "name": "Ryan",
+          "messages": [
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Woah that video was crazy. Didn't she have to get stitches?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Idk. All I know is she got LAID OUT! Hahaha"
+            },
+            {
+              "isImage": false,
+              "isReceived": false,
+              "content": "Do you think the school is gonna use this video to get people in trouble?"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Nah, they only care about stuff from 7:15 to 2:15. Their not going to do anything"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "Hey look weve been talking for a while"
+            },
+            {
+              "isImage": false,
+              "isReceived": true,
+              "content": "I gotta ask... Cause I want ot see more of you... Can you send me something ;)"
+            }
+          ]
+        }
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Jess completely forgets about how bad the video made her feel - Ryan just asked her to send him nudes. That's kind of flattering. No one has ever asked Jess for pictures like that before."
+      }
+    ],
+    "JSXType": "phone"
+  },
+  {
+    "id": "111",
+    "name": "Instructions",
+    "content": [
+      {
+        "JSXType": "text",
+        "linksTo": null,
+        "content": "This is a story where you get to choose the path the adventure takes. Links within passages show you image and video artifacts that provide context for what's going on in the story."
+      },
+      {
+        "JSXType": "text:paragraphStart",
+        "linksTo": null,
+        "content": "Links below passages are choices you can have the main character make. If you make a decision and want to change it, use the back arrow to the left of the text box."
+      },
+      {
+        "JSXType": "link:action",
+        "linksTo": "Let's get started!",
+        "content": "Let's get started!"
+      },
+      {
+        "JSXType": "image",
+        "linksTo": null,
+        "content": "wacc-mini-logo.png"
+      }
+    ]
+  },
+  null
+]
