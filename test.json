@@ -104,7 +104,7 @@
       {
         "JSXType": "link:action",
         "linksTo": "Make a comment",
-        "content": "[[Make a comment]] on Maddie's posts"
+        "content": "Make a comment on Maddie's posts"
       }
     ]
   },
@@ -188,12 +188,12 @@
       {
         "JSXType": "link:action",
         "linksTo": "Creep",
-        "content": "[[Creep]] on Olivia's Instagram to see who her new friend is"
+        "content": "Creep on Olivia's Instagram to see who her new friend is"
       },
       {
         "JSXType": "link:action",
         "linksTo": "Text another friend",
-        "content": "[[Text another friend]] to see if they can hangout"
+        "content": "Text another friend to see if they can hangout"
       }
     ]
   },
@@ -202,9 +202,9 @@
     "name": "selfie",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img4\"></div>"
+        "content": "img4.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -313,12 +313,12 @@
       {
         "JSXType": "link:action",
         "linksTo": "Approve",
-        "content": "[[Approve]] the request"
+        "content": "Approve the request"
       },
       {
         "JSXType": "link:action",
         "linksTo": "Deny",
-        "content": "[[Deny]] the request"
+        "content": "Deny the request"
       }
     ]
   },
@@ -695,12 +695,12 @@
       {
         "JSXType": "link:action",
         "linksTo": "Comfort",
-        "content": "[[Comfort]] Indira"
+        "content": "Comfort Indira"
       },
       {
         "JSXType": "link:action",
         "linksTo": "Confront",
-        "content": "[[Confront]] Maddie"
+        "content": "Confront Maddie"
       }
     ]
   },
@@ -906,7 +906,7 @@
       {
         "JSXType": "link:action",
         "linksTo": "Make a comment",
-        "content": "[[Make a comment]] to shut Maddie up"
+        "content": "Make a comment to shut Maddie up"
       }
     ]
   },
@@ -915,9 +915,9 @@
     "name": "This one",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img3\" title=\"Photo of teenager eating by Paul Schultz\"></div>"
+        "content": "img3.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -1111,9 +1111,9 @@
     "name": "picture",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\"></div>"
+        "content": "img1.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -1333,49 +1333,17 @@
       {
         "JSXType": "text:paragraphStart",
         "linksTo": null,
-        "content": "Should Jess..."
+        "content": "What should Jess do?"
       },
       {
-        "JSXType": "link:embedded",
-        "linksTo": null,
-        "content": [
-          {
-            "JSXType": "text:paragraphStart",
-            "linksTo": null,
-            "content": "..."
-          },
-          {
-            "JSXType": "link",
-            "linksTo": "say yes",
-            "content": "say yes"
-          },
-          {
-            "JSXType": "text",
-            "linksTo": null,
-            "content": ""
-          }
-        ]
+        "JSXType": "link:action",
+        "linksTo": "say yes",
+        "content": "Say yes"
       },
       {
-        "JSXType": "link:embedded",
-        "linksTo": null,
-        "content": [
-          {
-            "JSXType": "text:paragraphStart",
-            "linksTo": null,
-            "content": "..."
-          },
-          {
-            "JSXType": "link",
-            "linksTo": "go inside",
-            "content": "go inside"
-          },
-          {
-            "JSXType": "text",
-            "linksTo": null,
-            "content": ""
-          }
-        ]
+        "JSXType": "link:action",
+        "linksTo": "go inside",
+        "content": "Go inside"
       }
     ]
   },
@@ -1614,7 +1582,7 @@
       {
         "JSXType": "link:action",
         "linksTo": "Make a comment",
-        "content": "[[Make a comment]] on Maddie's posts"
+        "content": "Make a comment on Maddie's posts"
       }
     ]
   },
@@ -1731,7 +1699,7 @@
       {
         "JSXType": "link:action",
         "linksTo": "Make a comment",
-        "content": "[[Make a comment]] on Maddie's posts"
+        "content": "Make a comment on Maddie's posts"
       }
     ]
   },
@@ -2099,50 +2067,18 @@
       {
         "JSXType": "text:paragraphStart",
         "linksTo": null,
-        "content": "Should Jess..."
+        "content": "What should Jess do?"
       },
       {
-        "JSXType": "link:embedded",
-        "linksTo": null,
-        "content": [
-          {
-            "JSXType": "text:paragraphStart",
-            "linksTo": null,
-            "content": "..."
-          },
-          {
-            "JSXType": "link",
-            "linksTo": "Report the video",
-            "content": "Report the video"
-          },
-          {
-            "JSXType": "text",
-            "linksTo": null,
-            "content": ""
-          }
-        ]
+        "JSXType": "link:action",
+        "linksTo": "Report the video",
+        "content": "Report the video"
       },
       {
-        "JSXType": "link:embedded",
-        "linksTo": null,
-        "content": [
-          {
-            "JSXType": "text:paragraphStart",
-            "linksTo": null,
-            "content": "..."
-          },
-          {
-            "JSXType": "link",
-            "linksTo": "Pretend to like it",
-            "content": "Pretend to like it"
-          },
-          {
-            "JSXType": "text",
-            "linksTo": null,
-            "content": ""
-          }
-        ]
-      }
+        "JSXType": "link:action",
+        "linksTo": "Pretend to like it",
+        "content": "Pretend to like it"
+      },
     ]
   },
   {
@@ -2150,9 +2086,9 @@
     "name": "pictures",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img2\"></div>"
+        "content": "img2.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -2209,12 +2145,12 @@
       {
         "JSXType": "link:action",
         "linksTo": "Approve",
-        "content": "[[Approve]] the request"
+        "content": "Approve the request"
       },
       {
         "JSXType": "link:action",
         "linksTo": "Deny",
-        "content": "[[Deny]] the request"
+        "content": "Deny the request"
       }
     ]
   },
@@ -2297,12 +2233,12 @@
       {
         "JSXType": "link:action",
         "linksTo": "Approve",
-        "content": "[[Approve]] the request"
+        "content": "Approve the request"
       },
       {
         "JSXType": "link:action",
         "linksTo": "Deny",
-        "content": "[[Deny]] the request"
+        "content": "Deny the request"
       }
     ]
   },
@@ -2311,9 +2247,9 @@
     "name": "wishes she hadn't",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img6\"></div>"
+        "content": "img6.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -2946,7 +2882,7 @@
       {
         "JSXType": "link:action",
         "linksTo": "Blame",
-        "content": "[[Blame]] Maddie"
+        "content": "Blame Maddie"
       },
       {
         "JSXType": "link:action",
@@ -3340,9 +3276,9 @@
     "name": "DM",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img5\"></div>"
+        "content": "img5.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
@@ -4038,9 +3974,9 @@
     "name": "messages",
     "content": [
       {
-        "JSXType": "text:paragraphStart",
+        "JSXType": "image",
         "linksTo": null,
-        "content": "<div class=\"mod1-sprite-box\" id=\"img7\"></div>"
+        "content": "img7.jpg"
       },
       {
         "JSXType": "text:paragraphStart",
